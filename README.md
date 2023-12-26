@@ -1,4 +1,4 @@
-My SQL Note
+MySQL Note
 ---------------------------
 
 Roll , Name Gender, Age, GPA, City
